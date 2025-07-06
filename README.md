@@ -43,5 +43,12 @@ Make sure you have Python 3 installed. Then simply run:
 ```bash
 python Astar.py        # or any other script
 python genetic_gui.py  # to launch the GUI-based genetic algorithm
-👤 Author
-Alaeddine Ath
+```
+
+This project was created collaboratively by:
+
+Alaeddine ATAMNA
+Zakaria BOUKEFFA
+Nassim-Ali BOUAZZOUNI
+Haroun REZKI
+Anis RAHMANI
