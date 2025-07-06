@@ -15,13 +15,14 @@ This repository contains a collection of classical AI search and optimization al
 ## 🎯 Purpose
 
 This project was built to support learning and experimentation with common AI techniques, especially for:
-- Academic assignments
-- Teaching demonstrations
-- Personal practice with core AI topics
+
+- Academic assignments  
+- Teaching demonstrations  
+- Personal practice with core AI topics  
 
 ## 🖥️ Tech Stack
 
-- Python 3
+- Python 3  
 - Tkinter (for the Genetic Algorithm GUI)
 
 ## 🗂️ Project Structure
@@ -36,19 +37,20 @@ This project was built to support learning and experimentation with common AI te
 ├── genetic_gui.py
 └── README.md
 
-## 🚀 How to Run
-
+🚀 How to Run
 Make sure you have Python 3 installed. Then simply run:
-
-```bash
 python Astar.py        # or any other script
 python genetic_gui.py  # to launch the GUI-based genetic algorithm
-```
 
+👥 Contributors
 This project was created collaboratively by:
 
-Alaeddine ATAMNA
-Zakaria BOUKEFFA
-Nassim-Ali BOUAZZOUNI
-Haroun REZKI
-Anis RAHMANI
+Alaeddine Atamna
+
+Zakaria Boukeffa
+
+Nassim-Ali Bouazzouni
+
+Haroun Rezki
+
+Anis Rahmani
