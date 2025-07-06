@@ -27,6 +27,7 @@ This project was built to support learning and experimentation with common AI te
 
 ## 🗂️ Project Structure
 
+```plaintext
 .
 ├── Astar.py
 ├── BI.py
@@ -36,21 +37,23 @@ This project was built to support learning and experimentation with common AI te
 ├── depth limited.py
 ├── genetic_gui.py
 └── README.md
+```
 
-🚀 How to Run
+## 🚀 How to Run
+
 Make sure you have Python 3 installed. Then simply run:
+
+```bash
 python Astar.py        # or any other script
 python genetic_gui.py  # to launch the GUI-based genetic algorithm
+```
 
-👥 Contributors
+## 👥 Contributors
+
 This project was created collaboratively by:
 
-Alaeddine Atamna
-
-Zakaria Boukeffa
-
-Nassim-Ali Bouazzouni
-
-Haroun Rezki
-
-Anis Rahmani
+- **Alaeddine Atamna**  
+- **Zakaria Boukeffa**  
+- **Nassim-Ali Bouazzouni**  
+- **Haroun Rezki**  
+- **Anis Rahmani**
